@@ -15,6 +15,10 @@
   "files": [
     ".oxlintrc.json"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "lint": "oxlint .",
     "format": "oxfmt .",
