@@ -1,6 +1,6 @@
 {
   "name": "@apple-yagi/oxlint-config",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "private": false,
   "description": "apple-yagi's Oxlint config preset",
   "keywords": [
@@ -18,9 +18,11 @@
   "scripts": {
     "lint": "oxlint .",
     "format": "oxfmt .",
-    "format:check": "oxfmt --check ."
+    "format:check": "oxfmt --check .",
+    "publish": "changeset publish"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.29.8",
     "@types/react": "^19.2.13",
     "@types/react-dom": "^19.2.3",
     "oxfmt": "^0.28.0",
