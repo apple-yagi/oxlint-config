@@ -12,5 +12,31 @@
     "typescript",
     "unicorn",
     "vitest"
-  ]
+  ],
+  "categories": {
+    "correctness": "error",
+    "nursery": "error",
+    "pedantic": "error",
+    "perf": "error",
+    "restriction": "error",
+    "style": "error",
+    "suspicious": "error"
+  },
+  "rules": {
+    "import/no-named-export": "off",
+    "react/react-in-jsx-scope": "off",
+    "typescript/explicit-module-boundary-types": "off",
+    "react/jsx-filename-extension": "off",
+    "typescript/explicit-function-return-type": "off",
+    "import/prefer-default-export": "off",
+    "func-style": ["error", "declaration"],
+    "import/exports-last": "off",
+    "capitalized-comments": "off",
+    "unicorn/filename-case": [
+      "error",
+      {
+        "case": "kebabCase"
+      }
+    ]
+  }
 }
