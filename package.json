@@ -1,0 +1,26 @@
+{
+  "name": "@apple-yagi/oxlint-config",
+  "version": "0.0.1",
+  "private": false,
+  "description": "apple-yagi's Oxlint config preset",
+  "keywords": [
+    "oxlint"
+  ],
+  "license": "MIT",
+  "author": "apple-yagi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apple-yagi/oxlint-config.git"
+  },
+  "files": [
+    ".oxlintrc.json"
+  ],
+  "scripts": {
+    "lint": "oxlint .",
+    "format": "oxfmt ."
+  },
+  "devDependencies": {
+    "oxfmt": "^0.28.0",
+    "oxlint": "^1.43.0"
+  }
+}

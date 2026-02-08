@@ -1,0 +1,1 @@
+# @apple-yagi/oxlint-config
