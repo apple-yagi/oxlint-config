@@ -37,6 +37,17 @@
       {
         "case": "kebabCase"
       }
-    ]
+    ],
+    "import/no-relative-parent-imports": "off",
+    "oxc/no-async-await": "off",
+    "import/max-dependencies": "off",
+    "no-magic-numbers": "off",
+    "no-continue": "off",
+    "no-await-in-loop": "off",
+    "max-statements": "off",
+    "max-lines-per-function": "off",
+    "import/group-exports": "off",
+    "oxc/no-rest-spread-properties": "off",
+    "jest/require-hook": "off"
   }
 }
