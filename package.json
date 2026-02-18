@@ -1,6 +1,6 @@
 {
   "name": "@apple-yagi/oxlint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "apple-yagi's Oxlint config preset",
   "keywords": [
