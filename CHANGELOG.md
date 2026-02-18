@@ -1,5 +1,11 @@
 # @apple-yagi/oxlint-config
 
+## 0.0.3
+
+### Patch Changes
+
+- 58cf0d0: Change unnecessary rules to off
+
 ## 0.0.2
 
 ### Patch Changes
