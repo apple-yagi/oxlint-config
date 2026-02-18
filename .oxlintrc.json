@@ -48,6 +48,13 @@
     "max-lines-per-function": "off",
     "import/group-exports": "off",
     "oxc/no-rest-spread-properties": "off",
-    "jest/require-hook": "off"
+    "jest/require-hook": "off",
+    "import/no-nodejs-modules": "off",
+    "import/no-default-export": "off",
+    "import/no-unassigned-import": "off",
+    "sort-imports": "off",
+    "sort-keys": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/jsx-max-depth": "off"
   }
 }
