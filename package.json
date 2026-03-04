@@ -29,8 +29,9 @@
     "@changesets/cli": "^2.29.8",
     "@types/react": "^19.2.13",
     "@types/react-dom": "^19.2.3",
-    "oxfmt": "^0.28.0",
-    "oxlint": "^1.43.0",
+    "oxfmt": "^0.36.0",
+    "oxlint": "^1.51.0",
+    "oxlint-tsgolint": "^0.16.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "typescript": "^5.9.3"
