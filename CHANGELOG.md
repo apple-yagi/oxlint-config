@@ -1,5 +1,11 @@
 # @apple-yagi/oxlint-config
 
+## 0.1.1
+
+### Patch Changes
+
+- 41163d7: Remove options setting
+
 ## 0.1.0
 
 ### Minor Changes
