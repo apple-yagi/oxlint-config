@@ -1,5 +1,11 @@
 # @apple-yagi/oxlint-config
 
+## 0.1.3
+
+### Patch Changes
+
+- d883138: typescript/require-await off
+
 ## 0.1.2
 
 ### Patch Changes
