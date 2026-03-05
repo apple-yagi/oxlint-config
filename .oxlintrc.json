@@ -63,7 +63,6 @@
     "radix": "error",
     "typescript/strict-boolean-expressions": "error",
     "typescript/switch-exhaustiveness-check": "error",
-    "typescript/require-await": "error",
     "typescript/prefer-nullish-coalescing": "error",
     "unicorn/prefer-array-flat": "error",
     "unicorn/no-useless-switch-case": "error",
