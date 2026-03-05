@@ -103,8 +103,9 @@
     "react/jsx-pascal-case": "error",
     "new-cap": "error"
   },
-  "options": {
-    "typeAware": true,
-    "typeCheck": true
+  "env": {
+    "builtin": true,
+    "browser": true,
+    "node": true
   }
 }
